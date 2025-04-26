@@ -139,6 +139,6 @@ int main()
     treap.insert(3); 
     std::cout << "Size: " << treap.size() << std::endl; // Вывод: 4
     treap.erase(3);
-    std::cout << "Size after erase: " << treap.size() << std::endl; // Вывод: 2
+    std::cout << "Size after erase: " << treap.size() << std::endl; // Вывод: 3
     return 0;
 }
